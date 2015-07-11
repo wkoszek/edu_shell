@@ -1,10 +1,10 @@
 #!/bin/sh
 
-exec 3</etc/hosts
-exec 4</etc/fstab
+exec 3<data1.i
+exec 4<data2.i
 
-cat <&3 | while read H; do
-	cat <&4 | while read F; do
+cat <&4 | while read H; do
+	cat <&3 | while read F; do
 		echo $H $F
 	done
 done
