@@ -1,0 +1,16 @@
+2tu 1sample
+2tu 1data
+2tu 1number
+2tu 1one
+2twenty 1sample
+2twenty 1data
+2twenty 1number
+2twenty 1one
+2twelve 1sample
+2twelve 1data
+2twelve 1number
+2twelve 1one
+2two 1sample
+2two 1data
+2two 1number
+2two 1one
