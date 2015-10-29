@@ -18,3 +18,8 @@ So far the scripts are:
      prints out the cross-section of both files.
    - Output is captured to `o.multi_desc.sh`
    - Golden copy is `t.multi_desc.sh`
+
+# Author
+
+- Wojciech Adam Koszek, [wojciech@koszek.com](mailto:wojciech@koszek.com)
+- [http://www.koszek.com](http://www.koszek.com)
