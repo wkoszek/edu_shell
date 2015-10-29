@@ -2,7 +2,7 @@
 
 exec 4<data2.i
 
-function f() {
+f() {
 	exec 3<data1.i
 	cat <&3 | while read F; do
 		echo $H $F
