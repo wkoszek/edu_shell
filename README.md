@@ -1,6 +1,8 @@
 Advanced examples in Shell
 ===========
 
+[![Build Status](https://travis-ci.org/wkoszek/sh_advanced.svg?branch=master)](https://travis-ci.org/wkoszek/sh_advanced)
+
 This repo shows some more advanced examples of how SH (aka `/bin/sh` and
 `/bin/bash`) can be (ab)used.
 
